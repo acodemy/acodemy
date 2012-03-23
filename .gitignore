@@ -1,0 +1,4 @@
+﻿#Gitignore
+/database
+.idea
+logs
